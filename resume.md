@@ -10,9 +10,8 @@ header-includes:
 | Location         | District 8, Ho Chi Minh City                                   |
 | Phone            | +84898214791                                                   |
 | Email            | duonghuy@gmail.com                                             |
-| Personal Site    |                                    |
 | Github           | [quanghuy2k1] ([https://github.com/quanghuy2k1/quanghuy2k1])   |
-| LinkedIn         |                                                    |
+| LinkedIn         |                                                                |
 
 ## SUMMARY
 My specialty is in Management Information Systems. I’m interested in Python, PostgreSQL, data processing, and API testing. I’m seeking a suitable position to utilize my skills while aspiring to become an expert in the field.
@@ -20,10 +19,12 @@ My specialty is in Management Information Systems. I’m interested in Python, P
 ## EXPERIENCES
 
 ### Daikin Air Conditioning (Vietnam) Joint Stock Company (Software Tester) - Sep 2023 -> Present
-- Developed a CDN wrapper system utilizing CDNetworks’ API infrastructure
-- Designed and implemented both API architecture and frontend interface
-- Deployed backend and frontend systems to VPS
-- Collaborated with Taiwan-based team to ensure project alignment
+- Project Management: Proficient in using Notion to organize and manage project workflows
+- API Testing: Experienced in using Postman for API testing and validation
+- Software Testing: Capable of writing and executing detailed test cases. Experienced in system testing to ensure software quality and reliability
+- Bug Tracking: Proficient in logging bugs with clear reproduction steps and expected outcomes, providing actionable feedback for developers
+- Database Management: Proficient in PostgreSQL for querying databases and using Hasura for data management and real-time API development
+- Programming: Skilled in Python for developing custom tools and automating tasks
 - Technologies: Python, PosgreSQL
 
 ### Tinh Hoa Solutions (Software Consultant) - Sep 2022 -> Sep 2023
